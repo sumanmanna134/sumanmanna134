@@ -3,7 +3,7 @@
 Hi 👋 My name is Suman Manna
 ================================
 
-Senior Software Engineer
+Software Engineer @ NTT
 -------------------------
 Professional code writer by day, master procrastinator by night. (Mostly writes code at night too)😋
 * 🌍  I'm based in India
