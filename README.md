@@ -90,6 +90,7 @@ public class SumanManna extends SoftwareEngineer {
 
 | 🏗️ Project | 💡 What makes it special | 🛠️ Stack |
 |------------|--------------------------|----------|
+| **[Schematix](https://github.com/sumanmanna134/schematix)** — Distributed Schema Orchestration Platform 🆕 | **Intelligently infers schema structure** from multi-source data (S3, Azure Blob, GCS, APIs), applies async processing with **pluggable ingestion strategies** and extensible format resolvers to auto-generate optimized DB schemas across cloud environments | Java · Spring Boot · S3 · Azure Blob · GCS · Async · Multi-Cloud |
 | **[RunetSu](https://github.com/sumanmanna134)** — Sandboxed Code Execution Platform | Built a **custom AST-based static analysis engine from scratch** — no third-party parser. Secure, sandboxed execution of untrusted code at scale | Java · AST · Spring Boot · Docker |
 | **[GraphNova](https://github.com/sumanmanna134)** — Distributed Graph Database | Horizontally scalable distributed graph DB with custom partitioning and replication strategies | Java · Distributed Systems · Custom Consensus |
 | **[dash-stream](https://github.com/sumanmanna134/dash-stream)** — Video Streaming Platform | YouTube/Netflix-style streaming with FFmpeg transcoding, HLS/DASH adaptive bitrate, WebSocket upload progress, and **plugin-based multi-cloud storage** (S3 · Azure · GCP) | Java · FFmpeg · HLS · Spring Boot · S3 |
@@ -133,12 +134,13 @@ public class SumanManna extends SoftwareEngineer {
 ## ⚡ Engineering Highlights
 
 ```
+🧬  Schematix                     →  Distributed schema inference across S3 · Blob · GCS · APIs
 🔥  Transactional Outbox Pattern  →  Eliminated 40% data corruption in distributed writes
 📨  Kafka Streams Platform        →  2TB daily throughput, real-time demand forecasting
 📡  Credit Risk Notifications     →  50K+ messages/day on AWS SQS with zero message loss
 🚑  Production Reliability        →  50+ P0/P1 incidents resolved at NTT DATA
 🧠  Custom AST Engine             →  Built from scratch — no third-party parser libraries
-🌍  Multi-Cloud Terraform         →  Single codebase, three cloud providers
+🌍  Multi-Cloud Terraform         →  Single codebase, three cloud providers (AWS+Azure+GCP)
 🎬  Adaptive Video Streaming      →  HLS/DASH with plugin-based cloud storage abstraction
 ```
 
