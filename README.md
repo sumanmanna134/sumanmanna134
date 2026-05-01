@@ -27,22 +27,27 @@
 
 ```java
 public class SumanManna extends SoftwareEngineer {
-
+ 
     private final String name        = "Suman Manna";
     private final String role        = "Senior Software Engineer (SDE-III)";
-    private final String company     = "Intraedge  |  ex-NTT DATA  ";
+    private final String company     = "Intraedge  |  ex-NTT DATA";
     private final String location    = "West Bengal, India 🇮🇳";
     private final String blog        = "blog.isumdev.com";
     private final String[] interests = {
         "Distributed Systems", "Cloud Architecture",
         "Kafka Streams", "System Design", "Open Source"
     };
-
+ 
     @Override
     public String getCurrentFocus() {
-        return "Targeting SDE-III at Product Companies 🎯";
+        return "Building systems that scale, and ideas that last 🚀";
     }
-
+ 
+    @Override
+    public String getOpenSourcePhilosophy() {
+        return "Ship it. Learn from it. Make it better. Repeat. 🔁";
+    }
+ 
     @Override
     public String getFunFact() {
         return "I resolve production incidents faster than my coffee brews ☕";
