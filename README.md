@@ -30,7 +30,7 @@ public class SumanManna extends SoftwareEngineer {
  
     private final String name        = "Suman Manna";
     private final String role        = "Senior Software Engineer (SDE-III)";
-    private final String company     = "candescent  |  ex-NTT DATA";
+    private final String company     = "candescent(fka NCR Voyix)  |  ex-NTT DATA";
     private final String location    = "West Bengal, India 🇮🇳";
     private final String blog        = "blog.isumdev.com";
     private final String[] interests = {
